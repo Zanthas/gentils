@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+
 
 #define VERSION "Gentils Yes v0.0.1/n"
 
